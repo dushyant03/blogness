@@ -1,13 +1,29 @@
 baseURL = 'https://dushyant03.github.io/blogness/'
 languageCode = 'en-us'
-title = 'The Blogness Monster'
+title = 'The Blogness'
 theme = 'm10c'
+
+[menu]
+  [[menu.main]]
+    identifier = "blogs"
+    name = "Blogs"
+    url = "/"
+    weight = 2
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1  
 
 [params]
   author = "Dushyant Chakravorty"
-  description = "A blog about all things I like."
+  description = "A blogpost about all things I like."
 
   [[params.social]]
     icon = "github"
     name = "GitHub"
     url = "https://github.com/dushyant03"
+  [[params.social]]
+    icon = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/dushyant-chakravorty-a9199759/"
