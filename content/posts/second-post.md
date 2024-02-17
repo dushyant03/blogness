@@ -1,7 +1,24 @@
 +++
-title = 'Lifechanging Move!'
-date = 2024-02-11T15:20:38+01:00
-draft = true
+title = 'Team Culture: The Heartbeat of Every Great Team!'
+date = 2024-02-18T15:20:38+01:00
+draft = false
 +++
 
-Second Post!
+Almost every organization that exists comprises multiple people with different skill sets, and ideally, each of the people with similar skills or different are placed within teams, to work towards a bigger goal, and make their organization do well. Now the question is, does the culture within a team influence the productivity of the team?
+
+To answer the above question we need to understand, what do you understand by the word Culture? To me, Culture in a group setting or within a team is, the way every member of the team interacts and behaves with each other, and how they convey their ideas and opinions to each other. Every member can have a different equation with every other member of the team but there is always a commonality which in turn becomes the culture of that team. To illustrate this in an example, consider that there are two teams, Team Green and Team Blue. Team Green, every day in their StandUp calls, gets down to business as soon as everyone gets on the call, with almost no small talk, on the other hand, Team Blue, would start with a round of Among Us(the mobile game) and a bit of chit-chat before really getting down to business. This could shed some light on what culture these teams inhibit.
+
+Let's try to find out if culture affects productivity and the ability to get work done faster by digging a bit deeper into the ways of working of Team Green and that of Team Blue. Both teams have an equal number of members and work in 2 weeks agile sprints, both teams have a healthy mixture of mid-senior and senior members and a few new joiners. 
+
+Team Green's standup calls are very to the point with everyone taking turns one by one talking about their work and what they plan to do, with no inclination to dwell around the pleasantries, like asking how the attendees are doing or introducing any new joiners(assuming everybody got the memo already). As the sprint progresses, the new joiner has a few questions and reaches out to one of the team members who is also one of the most experienced members on the team, now, instead of receiving real help, the new joiner is asked to read the documentation around the task, which he does, but still lacks context. The next day the new joiner reaches out to the same member again and is asked to find more information online. Not finding much online as well, the new joiner reaches out to another team member and is informed that the information about that task is only with the person whom the new joiner had initially approached(the dreadful silos!). 
+
+Let's add to this misery, another common scenario tech teams face, which is, things break, so in Team Green one of the team members pushes a faulty code to production and causes a downtime, and another team member tags the person who made the faulty change and asks them to fix the issue, this is also pointed out in the standup next day and the member who made the change is singled out and asked to be more careful in the future.
+
+On the other hand, Team Blue behaves very differently. The standup calls are more relaxed with members talking about how their day has been and a slight amount of small talk and a few laughs here and there. They introduce the new joiners with a lot of enthusiasm and make them feel at ease on their first day, and then go on with the regular standup. In Team Blue's case, when the new joiner reaches out to any team member for help on a task, the response they receive is "Let's huddle". On the huddle, the more experienced member walks the new joiner through the documentation and helps him understand the task, the new joiner ends up having a clear idea of what is needed to be done. 
+
+In the other situation, where incorrect code is pushed to production, once an issue occurs, various team members reach out and get on a call trying to fix the issue, and the next day a summary of the issue is mentioned and what was done to fix it, with also a round of high fives to the team for fixing the issue swiftly, completely blameless, and instilling no sense of a fear of failure in the team members.
+
+The above situations happen in almost all tech teams, Team Blue creates an environment of cohesiveness, approachability, trust, motivation and collaboration, whereas Team Green mostly fails to work with those qualities, creating a sort of hostile environment with encouraging people to work in silos. Where there are higher chances for Team Blue to be more productive with their culture to take everyone along and help each other out to get unblocked, Team Green surrounds the members with feelings of being stuck and unable to reach out or ask for help, eventually ending up delaying projects and missing deadlines.
+
+In conclusion, the only way forward is to work together as a team, helping everyone who needs it, and unblocking each other. This also is what we practice in our lives, we live in communities and families naturally help each other out. 
+

@@ -1,36 +1,29 @@
 baseURL = 'https://dushyant03.github.io/blogness/'
 languageCode = 'en-us'
-title = 'The Blogness'
-theme = 'soho'
+title = "The Blogness"
+ theme = "color-your-world"
+#theme = "nightfall"
 
-summarylength = 10
-enableEmoji = true
 
 [params]
-author = "Dushyant Chakravorty"
-description = "My Blog"
-profilePicture = "images/avatar.jpg"
 
-  [[params.socialIcons]]
-  icon = "fa-linkedin"
-  title = "Linkedin"
-  url = "https://www.linkedin.com/in/dushyant-chakravorty-a9199759/"
+  footerText = [ "Author: Dushyant Chakravorty" ]
 
-  [[params.socialIcons]]
-  icon = "fa-github"
-  title = "GitHub"
-  url = "https://github.com/dushyant03?tab=repositories"
+[languages]
 
-[menu]
+  [languages.en]
+  
+    languageName = "English"
 
-  [[menu.main]]
-  name = "Posts"
-  weight = 100
-  identifier = "posts"
-  url = "/posts/"
+    [languages.en.menu]
+      
+      [[languages.en.menu.main]]
+        name = "About"
+        weight = 1
+        url = "about/"
 
-  [[menu.main]]
-  name = "About"
-  identifier = "about"
-  weight = 300
-  url = "/about/"
+      [[languages.en.menu.main]]
+        name = "Posts"
+        weight = 2
+        url = "posts/"
+
