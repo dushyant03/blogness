@@ -27,3 +27,6 @@ title = "The Blogness"
         weight = 2
         url = "posts/"
 
+# Add this section to ignore .js files
+ignoreFiles = ["\\.js$", "\\.scss$"]
+

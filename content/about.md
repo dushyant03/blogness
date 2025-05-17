@@ -6,7 +6,7 @@ title = "About"
  Some of them are
  - Long walks, they just relax me(I am a slow walker)
  - Driving(I drive to my gym, which is 400m from home)
- - Cooking(I can cook up a mean Indian curry and lot more)
+ - Cooking(I can cook up a mean Indian dish and lot more)
  - Reading(A sort of new interest I have picked up)
  - Having a good laugh(Who does not like that!)
 
