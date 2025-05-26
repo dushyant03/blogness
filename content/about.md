@@ -11,3 +11,5 @@ title = "About"
  - Having a good laugh(Who does not like that!)
 
  I am also a guy working in the IT like many many of the people around, again nothing special. What does make me special are all my experiences and my journey to where I am today.
+
+ PS: All my blogs are me speaking with AI only formatting them for me :)

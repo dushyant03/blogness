@@ -34,4 +34,4 @@ Now, why Kubernetes is the right answer:
 - When you want built-in security best practices while deploying and managing clusters.
 - When you want access to a strong, supportive community.
 
-In conclusion, I personally love Kubernetes. Through the various projects I've worked on, I’ve learned a lot about deploying container-based applications using Kubernetes. I always look for companies that are already using Kubernetes or are planning to migrate to it — it’s more than just a technology for me. It’s an emotion.
+In conclusion, I personally love Kubernetes. Through the various projects I've worked on, I’ve learned a lot about deploying container-based applications using Kubernetes.
